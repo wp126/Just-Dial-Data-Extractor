@@ -6,6 +6,6 @@
    
  <strong>Justdial Data Extractor</strong> is the most powerful tool and easy-to-use data extraction software for web scraping and data extraction from justdial. Just Data Extractor will benefit a wide range of computer users. Let's say, for example, you need to extract all business (Company , address, contact, Categories, Phone no, Mobile no and etc.) from Justdial. It's may save your browsing hours!
 
-== Screenshots ==
+ Screenshots 
 <img src="https://www.plugin999.com/wp-content/uploads/2023/06/FnmP9D3-1024x542.png"/>
 <img src="https://www.plugin999.com/wp-content/uploads/2023/06/dSkMq7k-1024x542.png"/>
